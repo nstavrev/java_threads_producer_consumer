@@ -11,7 +11,7 @@
     
     <property name="hibernate.connection.url">jdbc:postgresql://localhost:5432/producer_consumer</property>
     <property name="hibernate.connection.username">postgres</property>
-    <property name="hibernate.connection.password">your_password</property>
+    <property name="hibernate.connection.password">nikolai</property>
      
     <property name="hibernate.connection.pool_size">1</property>
     <property name="hibernate.hbm2ddl.auto">update</property>
